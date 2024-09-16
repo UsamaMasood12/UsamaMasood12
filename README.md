@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Usama Masood</h1>
-<h3 align="center">Remote Full-stack web developer looking for exciting adventure</h3>
+<h3 align="center">Data Scientist | Data Analyst | Machine Learning Specialist | Python Programmer | SQL Database Expert | Data Visualization Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UsamaMasood12&label=Profile%20views&color=0e75b6&style=flat" alt="Usama Masood" /> </p>
 
-- **Languages**: HTML5, CSS, JavaScript, Ruby, Redux
-- **Frameworks and libraries**: Bootstrap, React, Redux, Ruby on Rails, Node.JS
-- **Testing**: Jest, RSpec, Capybara
-- **Documentation**: Swagger
-- **Databases**: PostgreSQL, MySQL, SQLite3
-- **Other**: Git version control, Linux, Heroku, pair programming, Webpack
+- **Languages**: Python, C, C++, R, HTML5, CSS, JavaScript
+- **Data Analysis Tools**: Pandas, NumPy, SciPy
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Power BI
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
+- **Statistical Analysis**: Regression, Hypothesis Testing, Time Series Analysis
+- **Database Management**: SQL, NoSQL, MongoDB, PostgreSQL
+- **Big Data Technologies**: Hadoop, Spark
+- **Data Cleaning and Preparation**: Data Wrangling, Data Transformation, Feature Engineering
+- **Data Mining and Warehousing**: ETL Processes, Data Warehousing
+- **Version Control**: Git, GitHub
+
 
 - ⚡ **Fun fact** Stay humble because the second you stop being a student, your knowledge becomes fragile
 
