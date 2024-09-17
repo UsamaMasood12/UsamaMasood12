@@ -15,7 +15,7 @@
 - **Version Control**: Git, GitHub
 
 
-- ⚡ **Fun fact** Stay humble because the second you stop being a student, your knowledge becomes fragile
+⚡ **Fun fact** Stay humble because the second you stop being a student, your knowledge becomes fragile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
