@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/usama-masood-b4a35014b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usama masood" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Uxama531" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usama masood" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/usamamasood1" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="usama masood" height="30" width="40" /></a>
-<a href="usamamasood531@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="usama masood" height="30" width="40" /></a>
+<a href="mailto:usamamasood531@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="usama masood" height="30" width="40" /></a>
 
   
 </p>
