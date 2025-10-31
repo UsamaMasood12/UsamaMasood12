@@ -20,7 +20,7 @@
 ⚡ **Fun fact** Stay humble because the second you stop being a student, your knowledge becomes fragile
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/usama_masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="UsamaMasood12" height="30" width="40" /></a>
 <a href="https://twitter.com/Usama____Masood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usama masood" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/usama-masood-b4a35014b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usama masood" height="30" width="40" /></a>
