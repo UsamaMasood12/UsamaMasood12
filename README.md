@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/asadmasood10054">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Agentic%20AI%20Developer&animation=fadeIn" alt="Agentic AI Developer Header">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Agentic%20AI%20Developer&animation=fadeIn" alt="DATA SCIENTIST Header">
   </a>
 </p>
+<h3 align="center"> I deliver AI-driven, web-integrated solutions to solve complex challenges and empower businesses with impactful insights.</h3>
 
 - **Languages**: Python, C, C++, R, HTML5, CSS, JavaScript
 - **Data Analysis Tools**: Pandas, NumPy, SciPy
