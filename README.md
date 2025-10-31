@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Usama Masood</h1>
-<h3 align="center">Data Scientist | Data Analyst | Machine Learning Specialist | Python Programmer | SQL Database Expert | Data Visualization Professional</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UsamaMasood12&label=Profile%20views&color=0e75b6&style=flat" alt="Usama Masood" /> </p>
+<p align="center">
+  <a href="https://github.com/asadmasood10054">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Agentic%20AI%20Developer&animation=fadeIn" alt="Agentic AI Developer Header">
+  </a>
+</p>
 
 - **Languages**: Python, C, C++, R, HTML5, CSS, JavaScript
 - **Data Analysis Tools**: Pandas, NumPy, SciPy
