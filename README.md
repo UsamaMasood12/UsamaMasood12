@@ -5,6 +5,8 @@
 </p>
 <h3 align="center"> I deliver AI-driven, web-integrated solutions to solve complex challenges and empower businesses with impactful insights.</h3>
 
+<img align="right" alt="Coding" width="400" src="Untitleddesign1-ezgif.com-crop.gif">
+
 - **Languages**: Python, C, C++, R, HTML5, CSS, JavaScript
 - **Data Analysis Tools**: Pandas, NumPy, SciPy
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau, Power BI
