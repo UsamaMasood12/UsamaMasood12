@@ -5,7 +5,7 @@
 </p>
 <h3 align="center"> I deliver AI-driven, web-integrated solutions to solve complex challenges and empower businesses with impactful insights.</h3>
 
-<img align="right" alt="Coding" width="400" src="Untitleddesign1-ezgif.com-crop.gif">
+<img align="right" alt="Coding" width="400" src="vlc-record-2024-11-21-20h45m07s-videoplayback.webm-.gif">
 
 - **Languages**: Python, C, C++, R, HTML5, CSS, JavaScript
 - **Data Analysis Tools**: Pandas, NumPy, SciPy
