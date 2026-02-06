@@ -79,7 +79,3 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UsamaMasood12&show_icons=true&locale=en&layout=compact" alt="usama" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UsamaMasood12&show_icons=true&locale=en" alt="usama" /></p>
